@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
 
-        val sa ="sa"
+        val sa ="as"
 
     }
 
